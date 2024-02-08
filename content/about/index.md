@@ -24,7 +24,7 @@ I am a programmer of many things for the past 35+ years.
 I sometimes join game jams and make games for fun.
 Check out my [Itch](https://sunpot.itch.io/) page if you want to see more.
 
-# Contact
+## Contact
 Best way to reach me is probably through [e-mail](mailto:pontus-munck@gmail-com). Replace hyphens with dots.
 
 {{<alert "bluesky">}}
