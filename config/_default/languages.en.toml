@@ -1,0 +1,65 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Code Mode"
+copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Pontus Munck"
+  image = "img/pontus4.jpg"
+  headline = "Game Programmer :rocket:"
+  # bio = "A little bit about you"
+  links = [
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+    { bluesky = "https://bsky.app/profile/pontusm.bsky.social" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+    { facebook = "https://www.facebook.com/pontus.munck" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/pontusm" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
+  #   { hashnode = "https://username.hashnode.dev" },
+    { instagram = "https://www.instagram.com/pontusmunck" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+    { linkedin = "https://www.linkedin.com/in/pontus-munck-7468111" },
+    { mastodon = "https://mastodon.gamedev.place/@pontusm" },
+  #   { medium = "https://medium.com/username" },
+  #   { mendeley = "https://www.mendeley.com/" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+    { soundcloud = "https://soundcloud.com/epoksound" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+    { steam = "https://steamcommunity.com/id/smiskov/" },
+    { telegram = "https://t.me/pontusm" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+    { x-twitter = "https://twitter.com/pontusm" },
+    { youtube = "https://www.youtube.com/@codemancerdev" },
+  ]
