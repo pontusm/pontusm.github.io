@@ -20,7 +20,6 @@ I am a programmer of many things for the past 35+ years.
 - In the 2010s I made games and apps for iOS in Objective-C and Swift
 - Now, in the 2020s I am making games in C++ and Unreal Engine
 
-
 I sometimes join game jams and make games for fun.
 Check out my [Itch](https://sunpot.itch.io/) page if you want to see more.
 

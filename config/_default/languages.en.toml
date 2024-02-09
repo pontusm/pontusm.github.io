@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Code Mode"
+title = "pontusmunck.com"
 copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -23,7 +23,7 @@ copyright = "Copy, _right?_ :thinking_face:"
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
-    { bluesky = "https://bsky.app/profile/pontusm.bsky.social" },
+    { bluesky = "https://bsky.app/profile/pontusm.net" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
