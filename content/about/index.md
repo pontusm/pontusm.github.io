@@ -12,6 +12,8 @@ In my spare time I like to make music.
 Check out my [Soundcloud](https://soundcloud.com/epoksound) if you want to listen to some of my stuff.
 Check out my [Instagram](https://www.instagram.com/epok_modular/) if you want to see my music gear.
 
+My old legacy blog is still available at https://pontusm.wordpress.com.
+
 ## History
 I am a programmer of many things for the past 35+ years.
 - In the 1980s I made my first games in Basic for the Commodore 64
